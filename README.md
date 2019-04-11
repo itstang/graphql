@@ -9,6 +9,7 @@ $ git clone git@github.com:itstang/graphql.git
 
 ```bash
 $ make setup  # downloads dependencies
+$ make schema # generates schema code
 $ make dev    # start local server
 ```
 
